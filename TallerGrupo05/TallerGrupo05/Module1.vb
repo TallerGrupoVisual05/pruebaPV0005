@@ -5,6 +5,9 @@
         Console.ReadLine()
         Console.WriteLine("Segunda linea")
         Console.ReadLine()
+        Console.WriteLine("tercera linea")
+
+
     End Sub
 
 End Module
